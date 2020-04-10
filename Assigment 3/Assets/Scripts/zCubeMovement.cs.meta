@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d939a873d5481254f991a4a7b33f8cc8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SFX: {instanceID: 0}
+  - Bump: {fileID: 8300000, guid: 9a92cddfcbc9fbe4fae8da8df31b9f7c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
